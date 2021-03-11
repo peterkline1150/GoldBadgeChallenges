@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadgeChallenges", "GoldBadgeChallenges\GoldBadgeChallenges.csproj", "{4B8B4267-D573-41AB-998C-B746D7D18513}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallengeW1D5", "MorningChallengeW1D5\MorningChallengeW1D5.csproj", "{A76164BA-2B27-46D4-BF45-EBD575C1E88D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4B8B4267-D573-41AB-998C-B746D7D18513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B8B4267-D573-41AB-998C-B746D7D18513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B8B4267-D573-41AB-998C-B746D7D18513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
