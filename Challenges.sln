@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadgeChallenges", "Gold
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallengeW1D5", "MorningChallengeW1D5\MorningChallengeW1D5.csproj", "{A76164BA-2B27-46D4-BF45-EBD575C1E88D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2D2 Challenge", "W2D2 Challenge\W2D2 Challenge.csproj", "{A0C3C5B0-82F3-4463-B4EC-7258D8FE4A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2D2ChallengeConsole", "W2D2ChallengeConsole\W2D2ChallengeConsole.csproj", "{739D0682-1581-45CD-9E0A-3C798503E50A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A76164BA-2B27-46D4-BF45-EBD575C1E88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C3C5B0-82F3-4463-B4EC-7258D8FE4A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C3C5B0-82F3-4463-B4EC-7258D8FE4A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C3C5B0-82F3-4463-B4EC-7258D8FE4A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C3C5B0-82F3-4463-B4EC-7258D8FE4A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739D0682-1581-45CD-9E0A-3C798503E50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739D0682-1581-45CD-9E0A-3C798503E50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739D0682-1581-45CD-9E0A-3C798503E50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739D0682-1581-45CD-9E0A-3C798503E50A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
